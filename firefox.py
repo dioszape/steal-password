@@ -5,7 +5,7 @@
 #/_______ \____|__  /____|   /_______  /
 #        \/       \/                 \/ 
 # Telegram: https://t.me/zapedios
-
+# ONLY FOR FIREFOX
 
 
 
